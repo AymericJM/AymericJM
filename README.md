@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aymeric</h1>
-<h3 align="center">I'm a 1st year student at Epitech Rennes.</h3>
+<h3 align="center">I'm a 2nd year student at Epitech Rennes.</h3>
 
 
 > <h2 align="left">🌐 Links</h2>
